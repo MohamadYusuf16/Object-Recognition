@@ -1,3 +1,3 @@
-# Object Recognition App
+# Object Recognition Output Screen
+![Object detection](https://github.com/MohamadYusuf16/Object-detection-/assets/118000110/9fca10f9-ed78-4ea9-9889-1f8b0b9ee63d)
 
-![1631108239004](https://user-images.githubusercontent.com/60597290/133161055-03a5b539-e3f8-483f-8d78-0b5a0f05aa09.jpeg)
